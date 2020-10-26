@@ -101,6 +101,8 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:text="https://www.linkedin.com/in/fadila-ahmad-s-440848192/"
+                android:clickable="true"
+                android:onClick="openLinkedIn"
                 />
             <View
                 android:id="@+id/divider3"
